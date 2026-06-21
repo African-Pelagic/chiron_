@@ -1,0 +1,5 @@
+name,alias_1,alias_2,category,default_unit
+Dips,weighted dips,bar dips,push,kg
+Pull Up,pullup,weighted pull up,pull,kg
+Bench Press,bench,flat bench,push,kg
+Back Squat,squat,barbell squat,legs,kg
