@@ -55,8 +55,6 @@ The video shows a session being started, a set being captured by voice, the pars
 
 ## Why This Exists
 
-Most workout apps assume I am willing to stop, navigate menus, and enter structured data through a conventional form. That is often the wrong interface.
-
 During a workout, I might be moving between sets, short on breath, handling equipment, or simply unwilling to fight a phone UI for something as small as "12 dips, 30 kilos". I built Chiron to explore a more practical interaction model:
 
 - capture short, structured events at the moment they happen
